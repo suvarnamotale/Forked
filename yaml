@@ -1,0 +1,26 @@
+
+Save the file.
+
+---
+
+### Option B: Docker Improvement (Alternative)
+Examples:
+- Add `.dockerignore`
+- Improve Dockerfile caching
+- Add healthcheck
+
+---
+
+### Option C: CI/CD Change (Alternative)
+Examples:
+- Rename workflow
+- Add `npm test` / `pytest`
+- Add build step comments
+
+---
+
+## Part 4: Commit From *Your* Account
+
+### Step 7: Check Changes
+```bash
+git status
